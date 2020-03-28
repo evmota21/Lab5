@@ -1,0 +1,2 @@
+<h1>This is Enrique Mota Santibañez Lab5!</h1>
+<p>The objective of this laboratory was to apply javascript to create a Shopping List. They key functions of this shopping lsit was to add an item based on user input, delete the item and check the text on it if any of the buttons were pressed.</p>
